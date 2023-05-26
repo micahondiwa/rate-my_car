@@ -1,9 +1,6 @@
 # Portforlio project- Foundation 
 
-The final project for this course has several steps that you must complete. 
-To give you an overview of the whole project, all the high-level steps are listed below. 
-The project is then divided into several smaller labs that give the detailed instructions for each step. 
-You must complete all the labs to successfully complete the project.
+The portfolio project is a capstone for the fundation (first 9 months) of the software Engineering studies at [ALX Africa](https://www.alxafrica.com/software-engineering-2022/), a course offered by [Holberton School](https://www.holbertonschool.com/)
 
 ## Project Breakdown
 
