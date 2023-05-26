@@ -4,38 +4,40 @@ The portfolio project is a capstone for the fundation (first 9 months) of the so
 
 
 ## About the project
-1. Project name and tagline
 
-Name: Ratemycar
-tagline: What do others say about this car? 
+#### Project name and tagline
 
-2. Team Members
+- Name: Ratemycar
+- tagline: What do others say about this car? 
 
-Micah Ondiwa
+#### Team Members
 
-3. Technologies
-HTML5 & JavaScript 
-Linux
-Git and GitHub
-Python
-Django
+- Micah Ondiwa
 
-4. Challenge statement
+#### Technologies
+- HTML5 & JavaScript 
+- Linux
+- Git and GitHub
+- Python
+- Django
+
+
+#### Challenge statement
 
 Most people buy cars from dealers, either locally or through imports. In cases of imports, people often buy cars that they do not have first-hand experience with. Ideally,  customers would find it beneficial if they could access a central database of dealership reviews across the country and internationally. The main purpose of this project is to build a website for a car dealer that allows new and existing customers to look up different branches by country and look at customer reviews of the various branches. Customers should be able to create an account and add their review for any of the branches. This will bring transparency to the system and also increase the trust customers have in the dealership.
 
-5. Risks
-Technical risk: Security attack on the customer database.
-Non-technical risk: Insincere reviews.
+#### Risks
+- Technical risk: Security attack on the customer database.
+- Non-technical risk: Insincere reviews.
 
-6. Infrastructure
-Since this is an individual project, all the work will be done on the master branch.
-The project will use containers for deployment. 
-Cloud deployment 
+#### Infrastructure
+- Since this is an individual project, all the work will be done on the master branch.
+- The project will use containers for deployment. 
+- Cloud deployment 
 
-7. Existing Solutions
+##### Existing Solutions
 
-Edmunds.com. Edmunds is one of the more popular car review websites, with an average of 16 million unique visitors per month. Edmunds offers in-depth reviews from professional car reviewers as well as everyday drivers
+- Edmunds.com. Edmunds is one of the more popular car review websites, with an average of 16 million unique visitors per month. Edmunds offers in-depth reviews from professional car reviewers as well as everyday drivers
 
 
 
@@ -58,3 +60,6 @@ Edmunds.com. Edmunds is one of the more popular car review websites, with an ave
 **Additional: Containerization**
 1. Adding deployment artifacts to the application
 2. Deploying the application
+
+
+Controbutors: [Micah Ondiwa](https://www.linkedin.com/in/micahondiwa/)
