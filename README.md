@@ -1,4 +1,4 @@
-# Final Project Template
+# Portforlio project- Foundation 
 
 The final project for this course has several steps that you must complete. 
 To give you an overview of the whole project, all the high-level steps are listed below. 
