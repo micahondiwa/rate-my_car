@@ -1,6 +1,6 @@
 # Portforlio project- Foundation 
 
-The portfolio project is a capstone for the fundation (first 9 months) of the software Engineering studies at [ALX Africa](https://www.alxafrica.com/software-engineering-2022/), a course offered by [Holberton School](https://www.holbertonschool.com/)
+The portfolio project is a capstone for the fundation (first 9 months) of the software Engineering studies at [ALX Africa](https://www.alxafrica.com/software-engineering-2022/), a course offered by [Holberton School](https://www.holbertonschool.com/).
 
 
 ## About the project
