@@ -19,7 +19,6 @@ The portfolio project is a capstone for the fundation (first 9 months) of the so
 - Git and GitHub
 - React
 
-
 #### Challenge statement
 
 Most people buy cars from dealers, either locally or through imports. In cases of imports, people often buy cars that they do not have first-hand experience with. Ideally,  customers would find it beneficial if they could access a central database of dealership reviews across the country and internationally. The main purpose of this project is to build a website for a car dealer that allows new and existing customers to look up different branches by country and look at customer reviews of the various branches. Customers should be able to create an account and add their review for any of the branches. This will bring transparency to the system and also increase the trust customers have in the dealership.
