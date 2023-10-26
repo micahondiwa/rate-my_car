@@ -1,18 +1,158 @@
 * {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  background-color: aqua;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
 .header-container {
-  background-color: aqua;
+    background-color: #1F2937;
+    justify-content: center;
+    padding-bottom: 8%;
+    padding-left: 205px;
+    padding-top: 1%;
 }
 
-.available-container {
-  background-color: blue;
+.menu {
+    width: 900px;
+    display: flex;
+    justify-content: space-between;
 }
 
-.footer-container {
-  background-color: rgb(122, 23, 23);
+.links {
+    display: flex;
+    justify-content: end;
+}
+
+.home,
+.about,
+.blogs,
+.contact {
+    margin-left: 20px;
+    color: #E5E7Eb;
+    display: flex;
+    justify-content: center;
+    font-size: 18px;
+}
+
+.menu .logo {
+    font-size: 24px;
+    color: #f9faf8;
+    display: flex;
+    justify-content: center;
+    font-weight: bolder;
+}
+
+.titles-container {
+    background-color: #1F2937;
+    padding-top: 10px;
+    display: flex;
+}
+
+.titles {
+    width: 1500px;
+}
+
+.title {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+    padding-left: 205px;
+    margin-bottom: 1%;
+}
+
+.subtext {
+    color: #E5E7Eb;
+    font-size: 18px;
+    padding-left: 205px;
+    margin-bottom: 1%;
+}
+
+.signup button{
+    font-size: 18px;
+    font-weight: bold;
+
+    color: #FFFFFF;
+    background-color: #5995DA;
+
+    border: none;
+    border-radius: 7px;
+    cursor: pointer;
+
+    margin-left: 205px;
+    margin-bottom: 1%;
+
+    padding: 10px 40px;
+
+    display: flex;
+}
+
+.signup button:hover {
+    background-color: #76AEED;
+}
+
+.signup button:active {
+    background-color: #407FC7;
+}
+
+.titles .image1 {
+    flex: 1;
+}
+
+.image1{
+    padding-bottom: 1%;
+    margin-right: 410px;
+}
+
+.about-container {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+}
+.photo-grid-container {
+    display: flex;
+    flex: 1;
+}
+
+.photo1, 
+.photo2,
+.photo3,
+.photo4 {
+    /*border: 1px solid #3882f6;*/
+    justify-content: space-between;
+    padding: 14px;
+}
+
+.photo-grid-container span {
+    padding: 1px;
+}
+
+.quote-container {
+    background-color: #E5E7EB;
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    padding: 150px;
+}
+
+.action-call-container {
+    display: flex;
+    flex: 1;
+    padding: 40px;
+    background-color: #3882F6;
+    margin: 116px;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    background-color: #1F2937;
+    color: #E5E7EB;
+    font-size: 18px;
+
+    padding: 38px;
 }
