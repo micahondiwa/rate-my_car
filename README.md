@@ -17,7 +17,8 @@ The portfolio project is a capstone for the fundation (first 9 months) of the so
 - HTML5 & JavaScript 
 - Linux
 - Git and GitHub
-- React
+- Flask
+- Python3
 
 #### Challenge statement
 
